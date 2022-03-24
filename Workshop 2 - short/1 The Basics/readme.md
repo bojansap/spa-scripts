@@ -140,9 +140,6 @@ In this section, you will do basic tasks that includes:
 ![Basics done](images/Design_Studio/17_Design_Studio_Order_Processing_Form_Created.png)
 
 
-## How to obtain support <a name="support"></a>
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../../../issues) tab.
 
 ## License <a name="license"></a>
 
